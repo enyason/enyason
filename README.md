@@ -7,7 +7,7 @@ I also create technical contents on:
 - Youtube: https://www.youtube.com/channel/UCIGo3DxP9NBhUPMk6Jh3akQ
 
 You can reach me on:
-- LinkedIn: https://www.linkedin.com/in/enyason
+<!-- - LinkedIn: https://www.linkedin.com/in/enyason -->
 - Twitter: https://twitter.com/enyason95
 
 <!--
